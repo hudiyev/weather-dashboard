@@ -25,7 +25,7 @@ Project is created using:
 
 ## **_Mockup_**
 
-![Screen Shot](https://drive.google.com/file/d/1sjGfP8nGjTfw19l7YwjKh23cIOKgTF5m/view?usp=sharing)
+![Screen Shot](Weather-Dashboard-Screenshot.png)
 
 ## **_Installation_**
 
